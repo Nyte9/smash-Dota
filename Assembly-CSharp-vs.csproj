@@ -67,6 +67,7 @@
      <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\ServerSettings.cs" />
      <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\SocketUdp.cs" />
      <Compile Include="Assets\Sources\NetworkManager.cs" />
+     <Compile Include="Assets\Sources\PlayerController.cs" />
      <None Include="Assets\Plugins\release_history.txt" />
      <None Include="Assets\Photon Unity Networking\Changelog.txt" />
      <None Include="Assets\Plugins\Photon3Unity3D.xml" />
