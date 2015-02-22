@@ -1,0 +1,2719 @@
+fileFormatVersion: 2
+guid: e7e4e3d2532fc68418b9617a3942dd61
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: attack_1
+    100006: beard_R0C0
+    100008: beard_R1C0
+    100010: bicep_L
+    100012: bicep_R
+    100014: cape7_0
+    100016: capeL8_0
+    100018: capeR9_0
+    100020: clavicle_L
+    100022: clavicle_R
+    100024: elbow_L
+    100026: elbow_R
+    100028: //RootNode
+    100030: furion_beard_reference
+    100032: furion_bracer_reference
+    100034: furion_cape_reference
+    100036: furion_horns_reference
+    100038: furion_necklace_reference
+    100040: furion_reference
+    100042: furion_reference_skeleton
+    100044: furion_staff_reference
+    100046: Head_0
+    100048: Head_1
+    100050: horn10_0
+    100052: index_0_L
+    100054: index_0_R
+    100056: index_1_L
+    100058: index_1_R
+    100060: index_2_L
+    100062: index_2_R
+    100064: knee_L
+    100066: knee_R
+    100068: lChestPlate6_0
+    100070: mid_0_L
+    100072: mid_0_R
+    100074: mid_1_L
+    100076: mid_1_R
+    100078: mid_2_L
+    100080: mid_2_R
+    100082: plate1_0
+    100084: plate2_0
+    100086: plate3_0
+    100088: plate4_0
+    100090: plateCenter0_0
+    100092: rChestPlate5_0
+    100094: ring_0_L
+    100096: ring_0_R
+    100098: ring_1_L
+    100100: ring_1_R
+    100102: ring_2_L
+    100104: ring_2_R
+    100106: Root_0
+    100108: Spine_0
+    100110: Spine_1
+    100112: Spine_3
+    100114: staff_1
+    100116: thigh_L
+    100118: thigh_R
+    100120: thumb_0_L
+    100122: thumb_0_R
+    100124: thumb_1_L
+    100126: thumb_1_R
+    100128: thumb_2_L
+    100130: thumb_2_R
+    100132: toeBase_L
+    100134: toeBase_R
+    100136: wrist_L
+    100138: wrist_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: attack_1
+    400006: beard_R0C0
+    400008: beard_R1C0
+    400010: bicep_L
+    400012: bicep_R
+    400014: cape7_0
+    400016: capeL8_0
+    400018: capeR9_0
+    400020: clavicle_L
+    400022: clavicle_R
+    400024: elbow_L
+    400026: elbow_R
+    400028: //RootNode
+    400030: furion_beard_reference
+    400032: furion_bracer_reference
+    400034: furion_cape_reference
+    400036: furion_horns_reference
+    400038: furion_necklace_reference
+    400040: furion_reference
+    400042: furion_reference_skeleton
+    400044: furion_staff_reference
+    400046: Head_0
+    400048: Head_1
+    400050: horn10_0
+    400052: index_0_L
+    400054: index_0_R
+    400056: index_1_L
+    400058: index_1_R
+    400060: index_2_L
+    400062: index_2_R
+    400064: knee_L
+    400066: knee_R
+    400068: lChestPlate6_0
+    400070: mid_0_L
+    400072: mid_0_R
+    400074: mid_1_L
+    400076: mid_1_R
+    400078: mid_2_L
+    400080: mid_2_R
+    400082: plate1_0
+    400084: plate2_0
+    400086: plate3_0
+    400088: plate4_0
+    400090: plateCenter0_0
+    400092: rChestPlate5_0
+    400094: ring_0_L
+    400096: ring_0_R
+    400098: ring_1_L
+    400100: ring_1_R
+    400102: ring_2_L
+    400104: ring_2_R
+    400106: Root_0
+    400108: Spine_0
+    400110: Spine_1
+    400112: Spine_3
+    400114: staff_1
+    400116: thigh_L
+    400118: thigh_R
+    400120: thumb_0_L
+    400122: thumb_0_R
+    400124: thumb_1_L
+    400126: thumb_1_R
+    400128: thumb_2_L
+    400130: thumb_2_R
+    400132: toeBase_L
+    400134: toeBase_R
+    400136: wrist_L
+    400138: wrist_R
+    4300000: furion_staff_reference
+    4300002: furion_necklace_reference
+    4300004: furion_horns_reference
+    4300006: furion_cape_reference
+    4300008: furion_bracer_reference
+    4300010: furion_beard_reference
+    4300012: furion_reference
+    7400000: Default Take
+    7400002: attack
+    7400004: attack_altB
+    7400006: attack_altC
+    7400008: attack_altD
+    7400010: cast_ability_1
+    7400012: cast_ability_2
+    7400014: flail
+    7400016: idle
+    7400018: idle_staffSpin
+    7400020: run
+    7400022: run_chase
+    7400024: run_injured
+    7400026: stun
+    7400028: taunt_guitarWindmill
+    9500000: //RootNode
+    13700000: furion_beard_reference
+    13700002: furion_bracer_reference
+    13700004: furion_cape_reference
+    13700006: furion_horns_reference
+    13700008: furion_necklace_reference
+    13700010: furion_reference
+    13700012: furion_staff_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack_altB
+      takeName: attack_altB
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack_altC
+      takeName: attack_altC
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack_altD
+      takeName: attack_altD
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cast_ability_1
+      takeName: cast_ability_1
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cast_ability_2
+      takeName: cast_ability_2
+      firstFrame: -1
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: flail
+      takeName: flail
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: -1
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle_staffSpin
+      takeName: idle_staffSpin
+      firstFrame: -1
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run_chase
+      takeName: run_chase
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run_injured
+      takeName: run_injured
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stun
+      takeName: stun
+      firstFrame: -1
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taunt_guitarWindmill
+      takeName: taunt_guitarWindmill
+      firstFrame: -1
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: furion_beard_reference
+        weight: 1
+      - path: furion_bracer_reference
+        weight: 1
+      - path: furion_cape_reference
+        weight: 1
+      - path: furion_horns_reference
+        weight: 1
+      - path: furion_necklace_reference
+        weight: 1
+      - path: furion_reference
+        weight: 1
+      - path: furion_reference_skeleton
+        weight: 1
+      - path: furion_reference_skeleton/Root_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeL8_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/cape7_0/capeR9_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L/ring_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/staff_1/attack_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L/thumb_2_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate3_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/plate4_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_L/rChestPlate5_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/horn10_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R/ring_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R/thumb_2_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/lChestPlate6_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate1_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/clavicle_R/plate2_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/Head_0/Head_1/beard_R0C0/beard_R1C0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/Spine_0/Spine_1/Spine_3/plateCenter0_0
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: furion_reference_skeleton/Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: furion_staff_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

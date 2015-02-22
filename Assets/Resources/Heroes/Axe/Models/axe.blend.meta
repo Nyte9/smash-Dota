@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 1f19bf21697fbd949b9474024e351335
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: //RootNode
+    100006: axe_1
+    100008: axe_armor_reference
+    100010: axe_belt_reference
+    100012: axe_ponytail_reference
+    100014: axe_reference
+    100016: axe_reference_skeleton
+    100018: axe_weapon_reference
+    100020: bicep_L
+    100022: bicep_R
+    100024: chain_bot_R0C0
+    100026: chain_bot_R1C0
+    100028: chain_bot_R2C0
+    100030: chain_bot_R3C0
+    100032: chain_top_BC
+    100034: chain_top_R0C0
+    100036: chain_top_R1C0
+    100038: chain_top_R2C0
+    100040: chain_top_R3C0
+    100042: chain_top_R4C0
+    100044: clavicle_L
+    100046: clavicle_R
+    100048: elbow_L
+    100050: elbow_R
+    100052: hair_R0C0
+    100054: hair_R1C0
+    100056: hair_R2C0
+    100058: hair_R3C0
+    100060: hair_R4C0
+    100062: head
+    100064: index_0_L
+    100066: index_0_R
+    100068: index_1_L
+    100070: index_1_R
+    100072: index_2_L
+    100074: index_2_R
+    100076: jaw
+    100078: joint4
+    100080: joint5
+    100082: joint6
+    100084: joint7
+    100086: knee_L
+    100088: knee_R
+    100090: mid_0_L
+    100092: mid_0_R
+    100094: mid_1_L
+    100096: mid_1_R
+    100098: mid_2_L
+    100100: mid_2_R
+    100102: neck1
+    100104: root
+    100106: spine1
+    100108: spine2
+    100110: spine3
+    100112: static_prop
+    100114: thigh_L
+    100116: thigh_R
+    100118: thumb_0_L
+    100120: thumb_0_R
+    100122: thumb_1_L
+    100124: thumb_1_R
+    100126: toeBase_L
+    100128: toeBase_R
+    100130: wrist_L
+    100132: wrist_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: //RootNode
+    400006: axe_1
+    400008: axe_armor_reference
+    400010: axe_belt_reference
+    400012: axe_ponytail_reference
+    400014: axe_reference
+    400016: axe_reference_skeleton
+    400018: axe_weapon_reference
+    400020: bicep_L
+    400022: bicep_R
+    400024: chain_bot_R0C0
+    400026: chain_bot_R1C0
+    400028: chain_bot_R2C0
+    400030: chain_bot_R3C0
+    400032: chain_top_BC
+    400034: chain_top_R0C0
+    400036: chain_top_R1C0
+    400038: chain_top_R2C0
+    400040: chain_top_R3C0
+    400042: chain_top_R4C0
+    400044: clavicle_L
+    400046: clavicle_R
+    400048: elbow_L
+    400050: elbow_R
+    400052: hair_R0C0
+    400054: hair_R1C0
+    400056: hair_R2C0
+    400058: hair_R3C0
+    400060: hair_R4C0
+    400062: head
+    400064: index_0_L
+    400066: index_0_R
+    400068: index_1_L
+    400070: index_1_R
+    400072: index_2_L
+    400074: index_2_R
+    400076: jaw
+    400078: joint4
+    400080: joint5
+    400082: joint6
+    400084: joint7
+    400086: knee_L
+    400088: knee_R
+    400090: mid_0_L
+    400092: mid_0_R
+    400094: mid_1_L
+    400096: mid_1_R
+    400098: mid_2_L
+    400100: mid_2_R
+    400102: neck1
+    400104: root
+    400106: spine1
+    400108: spine2
+    400110: spine3
+    400112: static_prop
+    400114: thigh_L
+    400116: thigh_R
+    400118: thumb_0_L
+    400120: thumb_0_R
+    400122: thumb_1_L
+    400124: thumb_1_R
+    400126: toeBase_L
+    400128: toeBase_R
+    400130: wrist_L
+    400132: wrist_R
+    4300000: axe_weapon_reference
+    4300002: axe_ponytail_reference
+    4300004: axe_belt_reference
+    4300006: axe_armor_reference
+    4300008: axe_reference
+    7400000: Default Take
+    7400002: attack_alt
+    7400004: attack_main
+    7400006: berserkers_call
+    7400008: idle
+    7400010: run
+    9500000: //RootNode
+    13700000: axe_armor_reference
+    13700002: axe_belt_reference
+    13700004: axe_ponytail_reference
+    13700006: axe_reference
+    13700008: axe_weapon_reference
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack_alt
+      takeName: attack_alt
+      firstFrame: -1
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack_main
+      takeName: attack_main
+      firstFrame: -1
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: berserkers_call
+      takeName: berserkers_call
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: -1
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: -1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe_armor_reference
+        weight: 1
+      - path: axe_belt_reference
+        weight: 1
+      - path: axe_ponytail_reference
+        weight: 1
+      - path: axe_reference
+        weight: 1
+      - path: axe_reference_skeleton
+        weight: 1
+      - path: axe_reference_skeleton/root
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/index_0_L/index_1_L/index_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L/mid_2_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_bot_R0C0/chain_bot_R1C0/chain_bot_R2C0/chain_bot_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/axe_1/chain_top_BC/chain_top_R0C0/chain_top_R1C0/chain_top_R2C0/chain_top_R3C0/chain_top_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/index_0_R/index_1_R/index_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R/mid_2_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint4
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/clavicle_R/bicep_R/joint5
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/hair_R0C0/hair_R1C0/hair_R2C0/hair_R3C0/hair_R4C0
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/jaw
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint6
+        weight: 1
+      - path: axe_reference_skeleton/root/spine1/spine2/spine3/neck1/head/joint7
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: axe_reference_skeleton/root/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: axe_reference_skeleton/static_prop
+        weight: 1
+      - path: axe_weapon_reference
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
